@@ -12,10 +12,13 @@ A video walkthrough is seen [here](https://drive.google.com/file/d/1IVOxGC0_4f7x
 No installation used; the database is ran through Insomnia.
 Setup is done by first installing the node packages using
 ```npm i```
+
 MySQL is then invoked using the command
 ```mysql -u root -p``` followed by the password
+
 the seeds are initalized by running
 ```npm run seed```
+
 then the database is ran by the command 
 ```node server.js```
 
