@@ -6,9 +6,3 @@ CREATE DATABASE ecommerce_db;
 
 -- USE DATABASE
 USE ecommerce_db;
-
--- SEE TABLES
-SHOW TABLES;
-
--- CREATE Tables
-CREATE TABLES;
